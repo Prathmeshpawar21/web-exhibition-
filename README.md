@@ -26,24 +26,13 @@ The Exhibition Art Platform is a web application designed to showcase various ar
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/exhibition-art-platform.git
+   git clone https://github.com/Prathmeshpawar21/web-exhibition-.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd exhibition-art-platform
+   cd web-exhibition-
    ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
+
 
 ## Deployment
 
