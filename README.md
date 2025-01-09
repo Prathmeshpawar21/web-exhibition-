@@ -8,7 +8,7 @@ The Exhibition Art Platform is a web application designed to showcase various ar
 
 ## Screenshot
 
-![Exhibition Art Screenshot](./assets/images/exhi.png)
+![Exhibition Art Screenshot](./assets/images/exib.png)
 
 ## Features
 
